@@ -9,7 +9,7 @@ I made this calculator app by reinventing the wheel, I already knew that there a
 ### Links
 
 - Solution URL: https://github.com/AdanQuijadaC/calculator-app-main_byAQC
-- Live Site URL:
+- Live Site URL: https://calculator-app-main-by-aqc.vercel.app/
 
 ## My process
 
@@ -22,5 +22,5 @@ I made this calculator app by reinventing the wheel, I already knew that there a
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AdanQuijadaC)
-- Twitter - [@yourusername](https://www.twitter.com/Adan_Quijada_C)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/AdanQuijadaC)
+- Twitter - (https://www.twitter.com/Adan_Quijada_C)
